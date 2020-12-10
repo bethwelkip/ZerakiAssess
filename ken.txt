@@ -1,0 +1,63 @@
+Amherst College*,Massachusetts 5
+Barnard College*,New York 3
+Bates College*, Maine 3
+Bowdoin College*, Maine 4
+Brandeis University*, Massachusetts 3
+Brown University*, Rhode Island 5
+Bryn Mawr College*, Pennsylvania 3
+University of California*, Berkeley 5
+Carleton College*, Minnesota 4
+University Of Chicago*, Illinois 5
+Colby College*, Maine 4
+Colgate University*, New York 3
+Colombia University*, New York 5
+Connecticut College*, Connecticut 3
+Cornell University*, New York 4
+Dartmouth college*, New Hampshire 5
+Davidson College*, North Carolina 4
+Duke University*, North Carolina 5
+Franklin & Marshall College*, Pennsylvania 2
+Gettysburg College*, Pennsylvania 2
+Hamilton College*, New York 3
+Harvard University*, Massachusetts 5
+Kenyon College*, Ohio 3
+Lehigh University*, Pennisylvania 3
+McGill University*, Quebec 3
+Michigan State University*, Michigan 3
+Middlebury College*, Vermont 4
+MIT*, Massachusetts 5
+Mount Holyoke College*, Massachusetts 3
+North Western University*, Illinois 4
+Oberlin College*, Ohio 3
+University of Pennsylvania*, Pennsylvania 5
+Pomona College*, California 4
+Princeton University*, New Jersey 5
+Sarah Lawrence College*, New York 3
+Smith College*, Massachusetts 4
+St. Lawrence University*, New York 2
+Stanford University*, California 5
+Swarthmore College*,Pennsylvania 5
+University of Toronto *, Ontario 3
+Trinity college*, Connecticut 3
+Tufts University*, Massachusetts 3
+Vassar College*, New York 4
+Wellesley College*, Massachusetts 4
+Wesleyan University*, Connecticut 4
+Williams College*, Massachusetts 5
+College of Wooster*,Ohio 2
+Yale University*, Connecticut 5
+Dickinson College*, Pennsylvania 2
+Grinnell College*, Iowa 2
+Haverford College*, Pennsylvania 3
+Johns Hopkins University*, Maryland 4
+Lafayette College*, Pennsylvania 2
+Macalester College*, Minnesota 3
+Reed College*, Oregon 2
+Skidmore College*,  New York 2
+University of British Columbia*, British Colombia 3
+University of Rochester*, New York 4
+Vanderbilt University*, Tennessee 4
+Washington University in St. Louis*, Missouri 4
+California Institute of Technology*, California 5
+Claremont McKenna College*, California 4
+University of Notre Dame*, Indiana 4
